@@ -1,0 +1,8 @@
+Chr1b	RepeatMasker	similarity	1925	1997	301	+	.	ID=64920;Target=rnd-5_family-3257;Class=LINE/L1;
+Chr1b	RepeatMasker	similarity	7257	7374	577	-	.	ID=64922;Target=rnd-5_family-5804;Class=Unknown;
+Chr1b	RepeatMasker	similarity	7806	8124	738	-	.	ID=64923;Target=Pm_RLG_0905_LTR;Class=LTR/Gypsy;
+Chr1b	RepeatMasker	similarity	8125	9492	8818	-	.	ID=64924;Target=Pm_RLX_1001_LTR;Class=LTR/unknown;
+Chr1b	RepeatMasker	similarity	9495	10225	4096	+	.	ID=64925;Target=Pm_RLG_1194_LTR;Class=LTR/Gypsy;
+Chr1b	RepeatMasker	similarity	10805	10842	1380	+	.	ID=64926;Target=rnd-1_family-165;Class=DNA/PIF-Harbinger;
+Chr1b	RepeatMasker	similarity	10843	11130	862	-	.	ID=64927;Target=rnd-1_family-98;Class=DNA/PIF-Harbinger;
+Chr1b	RepeatMasker	similarity	13660	13919	770	+	.	ID=64929;Target=rnd-4_family-40;Class=DNA/TcMar-Stowaway;

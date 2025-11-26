@@ -1,0 +1,7 @@
+Chr01	RepeatMasker	similarity	1849	1908	17.6	+	.	ID=1195574.141556;Name=rnd-4_family-102;Target=rnd-4_family-102 1964 2021;class=LINE/L1
+Chr01	RepeatMasker	similarity	4051	4085	13.2	+	.	ID=1195574.141557;Name=GA-rich;Target=GA-rich 1 35;class=Low_complexity
+Chr01	RepeatMasker	similarity	4871	4925	19.2	+	.	ID=1195574.141558;Name=(CGCT)n;Target=(CGCT)n 1 59;class=Simple_repeat
+Chr01	RepeatMasker	similarity	5220	5246	 3.8	+	.	ID=1195574.141559;Name=(CGA)n;Target=(CGA)n 1 28;class=Simple_repeat
+Chr01	RepeatMasker	similarity	5434	5541	17.3	+	.	ID=1195574.141560;Name=rnd-5_family-5278;Target=rnd-5_family-5278 460 586;class=DNA/hAT-Ac
+Chr01	RepeatMasker	similarity	7736	7822	22.5	+	.	ID=1195574.141561;Name=(CGGCCG)n;Target=(CGGCCG)n 1 91;class=Simple_repeat
+Chr01	RepeatMasker	similarity	12709	12806	27.6	+	.	ID=1195574.141562;Name=rnd-5_family-657;Target=rnd-5_family-657 62 159;class=LTR/Gypsy

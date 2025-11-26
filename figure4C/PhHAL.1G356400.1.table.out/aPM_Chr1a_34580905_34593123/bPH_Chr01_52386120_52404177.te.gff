@@ -1,0 +1,15 @@
+Chr01	RepeatMasker	similarity	9035	9293	23.8	-	.	ID=1195574.15414;Name=rnd-2_family-162;Target=rnd-2_family-162 1 259;class=DNA/PIF-Harbinger
+Chr01	RepeatMasker	similarity	9604	9811	 5.8	+	.	ID=1195574.15415;Name=rnd-4_family-1828;Target=rnd-4_family-1828 43 250;class=DNA/PIF-Harbinger
+Chr01	RepeatMasker	similarity	10186	10311	28.3	+	.	ID=1195574.15416;Name=(CCG)n;Target=(CCG)n 1 127;class=Simple_repeat
+Chr01	RepeatMasker	similarity	10756	10806	13.9	+	.	ID=1195574.15417;Name=(GCATTGT)n;Target=(GCATTGT)n 1 53;class=Simple_repeat
+Chr01	RepeatMasker	similarity	12741	12761	 4.9	+	.	ID=1195574.15418;Name=(ATA)n;Target=(ATA)n 1 21;class=Simple_repeat
+Chr01	RepeatMasker	similarity	17727	17753	 8.5	+	.	ID=1195574.15419;Name=(GGCAA)n;Target=(GGCAA)n 1 26;class=Simple_repeat
+Chr01	RepeatMasker	similarity	18022	18040	 5.5	+	.	ID=1195574.15420;Name=(GCT)n;Target=(GCT)n 1 19;class=Simple_repeat
+Chr01	RepeatMasker	similarity	3547	3570	 4.7	+	.	ID=1195574.187839;Name=(CGAA)n;Target=(CGAA)n 1 23;class=Simple_repeat
+Chr01	RepeatMasker	similarity	3844	3872	 0.0	+	.	ID=1195574.187840;Name=(GCG)n;Target=(GCG)n 1 27;class=Simple_repeat
+Chr01	RepeatMasker	similarity	4319	4361	19.3	+	.	ID=1195574.187841;Name=(GGCGCG)n;Target=(GGCGCG)n 1 43;class=Simple_repeat
+Chr01	RepeatMasker	similarity	5487	5521	12.6	+	.	ID=1195574.187842;Name=(TA)n;Target=(TA)n 1 36;class=Simple_repeat
+Chr01	RepeatMasker	similarity	7916	8101	24.4	-	.	ID=1195574.187843;Name=rnd-5_family-141;Target=rnd-5_family-141 740 927;class=Unknown
+Chr01	RepeatMasker	similarity	8250	8561	27.0	-	.	ID=1195574.187844;Name=rnd-5_family-141;Target=rnd-5_family-141 2 319;class=Unknown
+Chr01	RepeatMasker	similarity	9035	9293	23.8	-	.	ID=1195574.187845;Name=rnd-2_family-162;Target=rnd-2_family-162 1 259;class=DNA/PIF-Harbinger
+Chr01	RepeatMasker	similarity	9604	9811	 5.8	+	.	ID=1195574.187846;Name=rnd-4_family-1828;Target=rnd-4_family-1828 43 250;class=DNA/PIF-Harbinger

@@ -1,0 +1,4 @@
+Chr02	RepeatMasker	similarity	4284	4302	 5.6	+	.	ID=1195574.390501;Name=(CGA)n;Target=(CGA)n 1 19;class=Simple_repeat
+Chr02	RepeatMasker	similarity	4939	5099	18.5	-	.	ID=1195574.390502;Name=rnd-5_family-5133;Target=rnd-5_family-5133 2 153;class=Unknown
+Chr02	RepeatMasker	similarity	5163	5252	20.6	+	.	ID=1195574.390503;Name=GA-rich;Target=GA-rich 1 88;class=Low_complexity
+Chr02	RepeatMasker	similarity	5608	5730	24.4	+	.	ID=1195574.390504;Name=(CGG)n;Target=(CGG)n 2 124;class=Simple_repeat

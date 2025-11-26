@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg height="500" width="1000" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<line style="stroke: black" x1="265" x2="540.74197181052" y1="75" y2="75" />
+	<text font-size="30%" x="60" y="75">aPM_Chr1a_30608642_30620786</text>
+	<line style="stroke: black" x1="265.045408311537" x2="361.651591107236" y1="81" y2="81" />
+	<rect height="8" style="fill: black" width="16.3696963092124" x="265.045408311537" y="77" />
+	<rect height="8" style="fill: black" width="10.103349317059" x="265.045408311537" y="77" />
+	<rect height="8" style="fill: black" width="6.26634699215344" x="275.148757628596" y="77" />
+	<rect height="8" style="fill: black" width="5.38088491717524" x="288.24905550712" y="77" />
+	<rect height="8" style="fill: black" width="5.38088491717524" x="288.24905550712" y="77" />
+	<rect height="8" style="fill: black" width="5.24465998256321" x="314.74480528916" y="77" />
+	<rect height="8" style="fill: black" width="0.95357454228422" x="319.989465271723" y="77" />
+	<rect height="8" style="fill: black" width="6.19823452484743" x="314.74480528916" y="77" />
+	<rect height="8" style="fill: black" width="4.2002688172043" x="357.474026445801" y="77" />
+	<rect height="8" style="fill: black" width="4.2002688172043" x="357.474026445801" y="77" />
+	<line style="stroke: black" x1="453.421788724208" x2="540.74197181052" y1="69" y2="69" />
+	<rect height="8" style="fill: black" width="10.7844739901192" x="453.421788724208" y="65" />
+	<rect height="8" style="fill: black" width="8.9681415286254" x="453.421788724208" y="65" />
+	<rect height="8" style="fill: black" width="1.81633246149375" x="462.389930252833" y="65" />
+	<rect height="8" style="fill: black" width="1.70281168265039" x="466.635607381575" y="65" />
+	<rect height="8" style="fill: black" width="1.70281168265039" x="466.635607381575" y="65" />
+	<rect height="8" style="fill: black" width="0.771941296134845" x="478.646105783203" y="65" />
+	<rect height="8" style="fill: black" width="0.771941296134845" x="478.646105783203" y="65" />
+	<rect height="8" style="fill: black" width="35.5774120895089" x="493.244877942459" y="65" />
+	<rect height="8" style="fill: black" width="35.5774120895089" x="493.244877942459" y="65" />
+	<rect height="8" style="fill: black" width="2.13419064225516" x="531.34245132229" y="65" />
+	<rect height="8" style="fill: black" width="2.13419064225516" x="531.34245132229" y="65" />
+	<rect height="8" style="fill: black" width="5.63063063063063" x="535.134045335658" y="65" />
+	<rect height="8" style="fill: black" width="0.771941296134845" x="535.134045335658" y="65" />
+	<rect height="8" style="fill: black" width="4.85868933449579" x="535.905986631793" y="65" />
+	<line style="stroke: black" x1="427.153080499855" x2="448.449578610869" y1="69" y2="69" />
+	<rect height="8" style="fill: black" width="11.1931487939552" x="427.153080499855" y="65" />
+	<rect height="8" style="fill: black" width="11.1931487939552" x="427.153080499855" y="65" />
+	<rect height="8" style="fill: black" width="9.37681633246149" x="439.095466434176" y="65" />
+	<rect height="8" style="fill: black" width="3.74618570183086" x="448.472282766638" y="65" />
+	<rect height="8" style="fill: black" width="13.1230020342924" x="439.095466434176" y="65" />
+	<polyline points="308.478458297007,73 310.113157512351,73 310.113157512351,65 308.478458297007,65 " style="fill: blue" />
+	<line style="stroke: black" x1="265" x2="556.47595175821" y1="185" y2="185" />
+	<text font-size="30%" x="60" y="185">bPH_Chr01_48102383_48115220</text>
+	<line style="stroke: black" x1="467.589181923859" x2="556.47595175821" y1="179" y2="179" />
+	<rect height="8" style="fill: black" width="9.30870386515548" x="467.589181923859" y="175" />
+	<rect height="8" style="fill: black" width="7.49237140366173" x="467.589181923859" y="175" />
+	<rect height="8" style="fill: black" width="1.81633246149375" x="475.081553327521" y="175" />
+	<rect height="8" style="fill: black" width="1.70281168265039" x="479.395342923569" y="175" />
+	<rect height="8" style="fill: black" width="1.70281168265039" x="479.395342923569" y="175" />
+	<rect height="8" style="fill: black" width="0.771941296134845" x="491.315024702121" y="175" />
+	<rect height="8" style="fill: black" width="0.771941296134845" x="491.315024702121" y="175" />
+	<rect height="8" style="fill: black" width="35.5774120895089" x="505.936501017146" y="175" />
+	<rect height="8" style="fill: black" width="35.5774120895089" x="505.936501017146" y="175" />
+	<rect height="8" style="fill: black" width="2.13419064225516" x="544.034074396978" y="175" />
+	<rect height="8" style="fill: black" width="2.13419064225516" x="544.034074396978" y="175" />
+	<rect height="8" style="fill: black" width="8.67298750363267" x="547.825668410346" y="175" />
+	<rect height="8" style="fill: black" width="0.771941296134845" x="547.825668410346" y="175" />
+	<rect height="8" style="fill: black" width="7.90104620749782" x="548.597609706481" y="175" />
+	<line style="stroke: black" x1="496.037489102005" x2="556.47595175821" y1="179" y2="179" />
+	<rect height="8" style="fill: black" width="1.88444492879977" x="496.037489102005" y="175" />
+	<rect height="8" style="fill: black" width="1.88444492879977" x="496.037489102005" y="175" />
+	<rect height="8" style="fill: black" width="3.40562336530078" x="505.936501017146" y="175" />
+	<rect height="8" style="fill: black" width="32.1717887242081" x="509.342124382447" y="175" />
+	<rect height="8" style="fill: black" width="35.5774120895089" x="505.936501017146" y="175" />
+	<rect height="8" style="fill: black" width="2.13419064225516" x="544.034074396978" y="175" />
+	<rect height="8" style="fill: black" width="2.13419064225516" x="544.034074396978" y="175" />
+	<rect height="8" style="fill: black" width="8.67298750363267" x="547.825668410346" y="175" />
+	<rect height="8" style="fill: black" width="0.771941296134845" x="547.825668410346" y="175" />
+	<rect height="8" style="fill: black" width="7.90104620749782" x="548.597609706481" y="175" />
+	<line style="stroke: black" x1="439.54954954955" x2="467.316732054635" y1="179" y2="179" />
+	<rect height="8" style="fill: black" width="10.0125326939843" x="439.54954954955" y="175" />
+	<rect height="8" style="fill: black" width="0.522195582679454" x="439.54954954955" y="175" />
+	<rect height="8" style="fill: black" width="9.49033711130485" x="440.071745132229" y="175" />
+	<rect height="8" style="fill: black" width="15.1890802092415" x="452.150356001162" y="175" />
+	<rect height="8" style="fill: black" width="9.37681633246149" x="452.150356001162" y="175" />
+	<rect height="8" style="fill: black" width="5.81226387678001" x="461.527172333624" y="175" />
+	<line style="stroke: black" x1="265.045408311537" x2="359.653625399593" y1="191" y2="191" />
+	<rect height="8" style="fill: black" width="14.666884626562" x="265.045408311537" y="187" />
+	<rect height="8" style="fill: black" width="8.4005376344086" x="265.045408311537" y="187" />
+	<rect height="8" style="fill: black" width="6.26634699215344" x="273.445945945946" y="187" />
+	<rect height="8" style="fill: black" width="5.38088491717524" x="286.54624382447" y="187" />
+	<rect height="8" style="fill: black" width="5.38088491717524" x="286.54624382447" y="187" />
+	<rect height="8" style="fill: black" width="5.24465998256321" x="313.20092269689" y="187" />
+	<rect height="8" style="fill: black" width="6.19823452484743" x="313.20092269689" y="187" />
+	<rect height="8" style="fill: black" width="0.95357454228422" x="318.445582679454" y="187" />
+	<rect height="8" style="fill: black" width="4.33649375181633" x="355.339835803545" y="187" />
+	<rect height="8" style="fill: black" width="4.33649375181633" x="355.339835803545" y="187" />
+	<polyline points="388.374382446963,183 390.803727114211,183 390.803727114211,175 388.374382446963,175 " style="fill: blue" />
+	<polyline points="306.979984016274,183 308.319529206626,183 308.319529206626,175 306.979984016274,175 " style="fill: blue" />
+	<polyline points="383.515693112467,183 384.106001162453,183 384.106001162453,175 383.515693112467,175 " style="fill: blue" />
+	<polyline points="440.639349026446,183 442.591906422552,183 442.591906422552,175 440.639349026446,175 " style="fill: blue" />
+	<polyline points="375.591942749201,183 376.817967160709,183 376.817967160709,175 375.591942749201,175 " style="fill: blue" />
+	<polyline points="356.97453501889,183 357.746476315025,183 357.746476315025,175 356.97453501889,175 " style="fill: blue" />
+	<polyline points="553.547115664051,183 555.749418773612,183 555.749418773612,175 553.547115664051,175 " style="fill: blue" />
+	<line style="stroke: black" x1="265" x2="681.666666666667" y1="295" y2="295" />
+	<text font-size="30%" x="60" y="295">cPM_Chr1b_38593535_38611886</text>
+	<line style="stroke: black" x1="265.045408311537" x2="360.720720720721" y1="301" y2="301" />
+	<rect height="8" style="fill: black" width="16.4605129322871" x="265.045408311537" y="297" />
+	<rect height="8" style="fill: black" width="10.1941659401337" x="265.045408311537" y="297" />
+	<rect height="8" style="fill: black" width="6.26634699215344" x="275.239574251671" y="297" />
+	<rect height="8" style="fill: black" width="5.38088491717524" x="288.476097064807" y="297" />
+	<rect height="8" style="fill: black" width="5.38088491717524" x="288.476097064807" y="297" />
+	<rect height="8" style="fill: black" width="5.24465998256321" x="315.130775937228" y="297" />
+	<rect height="8" style="fill: black" width="0.95357454228422" x="320.375435919791" y="297" />
+	<rect height="8" style="fill: black" width="6.19823452484743" x="315.130775937228" y="297" />
+	<rect height="8" style="fill: black" width="4.10945219412961" x="356.63397268236" y="297" />
+	<rect height="8" style="fill: black" width="4.10945219412961" x="356.63397268236" y="297" />
+	<line style="stroke: black" x1="592.848009299622" x2="681.666666666667" y1="289" y2="289" />
+	<rect height="8" style="fill: black" width="11.0342197035745" x="592.848009299622" y="285" />
+	<rect height="8" style="fill: black" width="9.21788724208079" x="592.848009299622" y="285" />
+	<rect height="8" style="fill: black" width="1.81633246149375" x="602.065896541703" y="285" />
+	<rect height="8" style="fill: black" width="1.70281168265039" x="606.266165358907" y="285" />
+	<rect height="8" style="fill: black" width="1.70281168265039" x="606.266165358907" y="285" />
+	<rect height="8" style="fill: black" width="0.771941296134845" x="618.708042720139" y="285" />
+	<rect height="8" style="fill: black" width="0.771941296134845" x="618.708042720139" y="285" />
+	<rect height="8" style="fill: black" width="35.5092996222028" x="633.05706916594" y="285" />
+	<rect height="8" style="fill: black" width="35.5092996222028" x="633.05706916594" y="285" />
+	<rect height="8" style="fill: black" width="2.13419064225516" x="671.109234234234" y="285" />
+	<rect height="8" style="fill: black" width="2.13419064225516" x="671.109234234234" y="285" />
+	<rect height="8" style="fill: black" width="0.771941296134845" x="674.968940714909" y="285" />
+	<rect height="8" style="fill: black" width="5.4944056960186" x="674.968940714909" y="285" />
+	<rect height="8" style="fill: black" width="4.72246439988375" x="675.740882011043" y="285" />
+	<rect height="8" style="fill: black" width="0.590308049985469" x="681.09906277245" y="285" />
+	<rect height="8" style="fill: black" width="0.590308049985469" x="681.09906277245" y="285" />
+	<polyline points="575.138767800058,293 581.019144144144,293 581.019144144144,285 575.138767800058,285 " style="fill: blue" />
+	<polyline points="511.181160999709,297 517.697253705318,297 517.697253705318,305 511.181160999709,305 " style="fill: blue" />
+	<polyline points="429.764058413252,297 432.420444638187,297 432.420444638187,305 429.764058413252,305 " style="fill: blue" />
+	<polyline points="480.57595902354,293 497.14999273467,293 497.14999273467,285 480.57595902354,285 " style="fill: blue" />
+	<polyline points="449.471265620459,297 480.507846556234,297 480.507846556234,305 449.471265620459,305 " style="fill: blue" />
+	<polyline points="308.705499854693,293 310.340199070038,293 310.340199070038,285 308.705499854693,285 " style="fill: blue" />
+	<polyline points="510.3184030805,293 511.158456843941,293 511.158456843941,285 510.3184030805,285 " style="fill: blue" />
+	<polyline points="442.228639930253,297 449.44856146469,297 449.44856146469,305 442.228639930253,305 " style="fill: blue" />
+	<polyline points="457.031749491427,90 540.74197181052,90 553.524411508282,170 469.723372566114,170 " style="fill: red" />
+	<polyline points="266.748219994188,90 308.296825050857,90 306.594013368207,170 265.022704155769,170 " style="fill: red" />
+	<polyline points="310.13586166812,90 345.69056960186,90 344.14668700959,170 308.364937518163,170 " style="fill: red" />
+	<polyline points="429.559721011334,90 455.465162743389,90 468.588164777681,170 442.61461057832,170 " style="fill: red" />
+	<polyline points="346.280877651845,90 359.086021505376,90 356.951830863121,170 344.14668700959,170 " style="fill: red" />
+	<polyline points="414.484161580936,90 427.697980238303,90 440.616644870677,170 427.357417901773,170 " style="fill: red" />
+	<polyline points="401.724426038942,90 414.597682359779,90 406.129032258065,170 393.596338273758,170 " style="fill: red" />
+	<polyline points="360.039596047661,90 369.507229003197,90 367.23681342633,170 357.769180470793,170 " style="fill: red" />
+	<polyline points="384.877942458588,90 391.530260098808,90 383.492988956699,170 376.840671316478,170 " style="fill: red" />
+	<polyline points="369.688862249346,90 376.227659110724,90 374.978930543447,170 368.190387968614,170 " style="fill: red" />
+	<polyline points="392.029751525719,90 394.799658529497,90 386.898612321999,170 384.128705318221,170 " style="fill: red" />
+	<polyline points="398.296098517873,90 400.90707643127,90 393.596338273758,170 390.98536036036,170 " style="fill: red" />
+	<polyline points="432.147994768962,90 435.054126707353,90 365.193439407149,170 368.07686718977,170 " style="fill: blue" />
+	<polyline points="465.52310374891,200 553.524411508282,200 680.667683812845,280 591.849026445801,280 " style="fill: red" />
+	<polyline points="265.567603894217,200 306.594013368207,200 308.523866608544,280 267.429344667248,280 " style="fill: red" />
+	<polyline points="308.501162452775,200 334.474716652136,200 335.905078465562,280 310.431015693112,280 " style="fill: red" />
+	<polyline points="344.14668700959,200 356.63397268236,200 357.928109561174,280 345.281894798024,280 " style="fill: red" />
+	<polyline points="334.520124963673,200 344.14668700959,200 344.691586748038,280 335.110433013659,280 " style="fill: red" />
+	<polyline points="363.377106945655,200 374.774593141529,200 392.620059575705,280 382.039922987504,280 " style="fill: red" />
+	<polyline points="433.169681778553,200 437.415358907294,200 586.581662307469,280 582.358689334496,280 " style="fill: red" />
+	<polyline points="357.769180470793,200 363.263586166812,200 364.603131357164,280 359.154133972682,280 " style="fill: red" />
+	<polyline points="398.772885789015,200 405.061936936937,200 407.877252252252,280 401.76983435048,280 " style="fill: red" />
+	<polyline points="428.061246730602,200 430.422478930543,200 412.395379250218,280 410.124963673351,280 " style="fill: red" />
+	<polyline points="390.98536036036,200 393.414705027608,200 395.276445800639,280 392.937917756466,280 " style="fill: red" />
+	<line style="stroke: black" x1="700" x2="2970.41557686719" y1="357" y2="357" />
+	<text style="text-anchor: start; font-weight: 100; font-size: 25%" x="2975.41557686719" y="360">100 Kb</text>
+	<rect height="8" style="fill: black" width="10" x="620" y="353" />
+	<text style="text-anchor: start; font-weight: 100; font-size: 25%" x="635" y="360">GENE</text>
+	<rect height="8" style="fill: blue" width="10" x="540" y="353" />
+	<text style="text-anchor: start; font-weight: 100; font-size: 25%" x="555" y="360">TE</text>
+	<!-- 
+	Generated using the Perl SVG Module V2.52
+	by Ronan Oger
+	Info: http://www.roitsystems.com/
+ -->
+</svg>
